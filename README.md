@@ -1,2 +1,2 @@
 # LeagueSharp
-Old LeagueSharp assemblies ;d
+LeagueSharp assemblies ;d
